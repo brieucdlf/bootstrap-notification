@@ -3,8 +3,8 @@
 
 simple functions for bootstrap notifify
 
-successAlert(message);
+- successAlert(message);
 
-warningAlert(message);
+- warningAlert(message);
 
-dangerAlert(message);
+- dangerAlert(message);
