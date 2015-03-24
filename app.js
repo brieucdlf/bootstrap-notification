@@ -55,7 +55,7 @@ function warningAlert(message) {
  * [dangerAlert]
  * @param  {[string]} message [whatever message]
  */
-function warningAlert(message) {
+function dangerAlert(message) {
     $.notify({
         icon: 'fa fa-close fa-4x',
         title: 'Erreur ;(',
